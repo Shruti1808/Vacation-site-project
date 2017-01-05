@@ -1,0 +1,9 @@
+.Testimonial-Column {
+  float: right;
+ width:20%;
+}
+
+.float-left {
+  float: left;
+  width:75%;
+}
