@@ -1,9 +1,15 @@
-.Testimonial-Column {
-  float: right;
- width:20%;
+img {
+  max-width:60%;
+  float: left;
+  padding-right: 2%;
 }
 
-.float-left {
-  float: left;
-  width:75%;
+html {
+  text-align: justify;
+
+}
+
+div p:nth-of-type(2) {
+  color:blue;
+  font-weight:bold;
 }
